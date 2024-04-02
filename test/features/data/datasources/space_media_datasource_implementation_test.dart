@@ -39,7 +39,7 @@ void main() {
         (_) async => HttpResponse(data: spaceMediaMock, statusCode: 200));
   }
 
-// TODO: need resolving the test:
+// TODO: resolving the test:
   // test('should call the get method with correct url', () async {
   //   when(() => client.get(any())).thenAnswer(
   //       (_) async => HttpResponse(data: spaceMediaMock, statusCode: 200));

@@ -15,6 +15,7 @@ dependencies:
   dartz: ^0.10.1-nullsafety
   cupertino_icons: ^1.0.6
   mocktail: ^1.0.3-nullsafety
+  http: ^0.13.1
 
 dev_dependencies:
   flutter_test:
