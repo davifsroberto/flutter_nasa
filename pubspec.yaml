@@ -1,0 +1,26 @@
+name: generic_login
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^2.0.5-nullsafety
+  dartz: ^0.10.1-nullsafety
+  cupertino_icons: ^1.0.6
+  mocktail: ^1.0.3-nullsafety
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
